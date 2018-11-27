@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SpringirunConfiguration">
+    <ContextContainerEntity name="spring-mvc-config.xml" root="true">
+      <ContextContainerEntity name="spring-mvc-config.xml" root="false" contextPath="..\:\InteliiJ idea Java\springmvc3\src\main\resources\spring-mvc-config.xml" />
+    </ContextContainerEntity>
+  </component>
+</project>
